@@ -49,3 +49,4 @@ event_time,user_id,event_name,category,amount
 2026-03-03T11:10:00,u023,signup,acquisition,0.00
 2026-03-03T11:40:00,u024,signup,acquisition,0.00
 2026-03-03T12:05:00,u023,view_item,browse,55.00
+2026-04-05T11:30:00,u015,signup,acquisition,12.00
